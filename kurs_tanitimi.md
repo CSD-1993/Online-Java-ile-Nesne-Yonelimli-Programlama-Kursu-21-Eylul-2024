@@ -17,7 +17,7 @@
 + Bazı derslerde konuların daha iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara _(Data structures & algorithms)_ ilişkin temel kavramlar da anlatılmaktadır.
 
 ## Ön Koşul
-Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan _Programlamaya Giriş_ ya da denzeri bir programı tamamlamış olmalısınız.
+Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan _Programlamaya Giriş_ ya da benzeri bir programı tamamlamış olmalısınız.
 
 ## Eğitim Süresi
 Programın toplam süresi __220__ saattir. 
